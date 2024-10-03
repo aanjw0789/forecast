@@ -1,2 +1,2 @@
-# forecast
-Statistical model for oceanography forecast: SARIMA, SARIMAX, etc.
+# SARIMAX-Forecast
+SARIMAX: Statistical model for time-series forecast.
