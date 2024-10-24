@@ -1,2 +1,2 @@
 # forecast
-Statistical model for oceanography forecast: SARIMA, SARIMAX, etc.
+Machine learning and statistical model for oceanography-marine biogeochemistry forecast: SARIMA, SARIMAX, etc.
